@@ -1,0 +1,702 @@
+[
+  {
+      "id": 1,
+      "title": "The Very Hungry Caterpillar",
+      "author": "Eric Carle",
+      "categories": [
+          "Children's Picture Book",
+          "Educational"
+      ],
+      "price": 10.99,
+      "description": "Follow the journey of a very hungry caterpillar as he eats his way through various foods before transforming into a beautiful butterfly.",
+      "publishedDate": "March 20, 1969",
+      "coverPage": "hungry_caterpillar.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 2,
+      "title": "Where the Wild Things Are",
+      "author": "Maurice Sendak",
+      "categories": [
+          "Children's Picture Book",
+          "Fantasy"
+      ],
+      "price": 8.5,
+      "description": "Join Max as he sails away to an island inhabited by Wild Things, where he becomes their king and experiences thrilling adventures.",
+      "publishedDate": "April 19, 1963",
+      "coverPage": "wild_things.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 3,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 12.99,
+      "description": "Discover the magical world of Harry Potter as he learns he's a wizard and attends Hogwarts School of Witchcraft and Wizardry.",
+      "publishedDate": "June 26, 1997",
+      "coverPage": "harry_potter.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 4,
+      "title": "Matilda",
+      "author": "Roald Dahl",
+      "categories": [
+          "Children's Fantasy",
+          "Humor"
+      ],
+      "price": 9.99,
+      "description": "Meet Matilda, a young girl with extraordinary intelligence and telekinetic powers, as she takes on the challenges of her neglectful family and cruel headmistress.",
+      "publishedDate": "October 1, 1988",
+      "coverPage": "matilda.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 5,
+      "title": "The Lion, the Witch and the Wardrobe",
+      "author": "C.S. Lewis",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 11.5,
+      "description": "Step through the wardrobe with Peter, Susan, Edmund, and Lucy into the magical land of Narnia, where they join forces with Aslan to defeat the White Witch.",
+      "publishedDate": "October 16, 1950",
+      "coverPage": "lion_witch_wardrobe.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 6,
+      "title": "Green Eggs and Ham",
+      "author": "Dr. Seuss",
+      "categories": [
+          "Children's Picture Book",
+          "Humor"
+      ],
+      "price": 7.25,
+      "description": "Embark on a rhyming adventure with Sam-I-Am as he tries to convince his friend to try green eggs and ham.",
+      "publishedDate": "August 12, 1960",
+      "coverPage": "green_eggs_ham.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 7,
+      "title": "Charlotte's Web",
+      "author": "E.B. White",
+      "categories": [
+          "Children's Fiction",
+          "Animal Stories"
+      ],
+      "price": 9.75,
+      "description": "Follow the friendship between a pig named Wilbur and a spider named Charlotte as they navigate life on a farm.",
+      "publishedDate": "October 15, 1952",
+      "coverPage": "charlottes_web.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 8,
+      "title": "The Cat in the Hat",
+      "author": "Dr. Seuss",
+      "categories": [
+          "Children's Picture Book",
+          "Humor"
+      ],
+      "price": 6.99,
+      "description": "Join Sally and her brother as they have a chaotic day with the mischievous Cat in the Hat.",
+      "publishedDate": "March 12, 1957",
+      "coverPage": "cat_in_hat.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 9,
+      "title": "Winnie-the-Pooh",
+      "author": "A.A. Milne",
+      "categories": [
+          "Children's Fiction",
+          "Animal Stories"
+      ],
+      "price": 8.99,
+      "description": "Visit the Hundred Acre Wood and meet Winnie-the-Pooh, Piglet, Eeyore, and other beloved characters in this classic collection of stories.",
+      "publishedDate": "October 14, 1926",
+      "coverPage": "winnie_pooh.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 10,
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "categories": [
+          "Children's Picture Book",
+          "Animal Stories"
+      ],
+      "price": 5.99,
+      "description": "Follow the mischievous Peter Rabbit as he disobeys his mother and ventures into Mr. McGregor's garden.",
+      "publishedDate": "October 2, 1902",
+      "coverPage": "peter_rabbit.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 11,
+      "title": "Goodnight Moon",
+      "author": "Margaret Wise Brown",
+      "categories": [
+          "Children's Picture Book",
+          "Bedtime Stories"
+      ],
+      "price": 8.25,
+      "description": "Say goodnight to everything in the great green room as you wind down for bedtime with this soothing classic.",
+      "publishedDate": "September 3, 1947",
+      "coverPage": "goodnight_moon.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 12,
+      "title": "Oh, the Places You'll Go!",
+      "author": "Dr. Seuss",
+      "categories": [
+          "Children's Picture Book",
+          "Inspirational"
+      ],
+      "price": 11.99,
+      "description": "Embark on a journey of self-discovery and adventure with Dr. Seuss's uplifting tale.",
+      "publishedDate": "January 22, 1990",
+      "coverPage": "oh_places.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 13,
+      "title": "The Gruffalo",
+      "author": "Julia Donaldson",
+      "categories": [
+          "Children's Picture Book",
+          "Fantasy"
+      ],
+      "price": 9.5,
+      "description": "Join Mouse as he outwits various forest animals by inventing a terrifying creature called the Gruffalo.",
+      "publishedDate": "March 23, 1999",
+      "coverPage": "gruffalo.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 14,
+      "title": "Diary of a Wimpy Kid",
+      "author": "Jeff Kinney",
+      "categories": [
+          "Children's Humor",
+          "Diary Fiction"
+      ],
+      "price": 7.99,
+      "description": "Follow Greg Heffley as he navigates the ups and downs of middle school in his humorous diary entries.",
+      "publishedDate": "April 1, 2007",
+      "coverPage": "wimpy_kid.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 15,
+      "title": "The Giving Tree",
+      "author": "Shel Silverstein",
+      "categories": [
+          "Children's Picture Book",
+          "Family Relationships"
+      ],
+      "price": 10.5,
+      "description": "Experience the touching story of the lifelong relationship between a boy and a selfless tree.",
+      "publishedDate": "October 7, 1964",
+      "coverPage": "giving_tree.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 16,
+      "title": "Percy Jackson and the Lightning Thief",
+      "author": "Rick Riordan",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 11.25,
+      "description": "Join Percy Jackson, a demigod son of Poseidon, as he embarks on a quest to prevent a war among the gods.",
+      "publishedDate": "June 28, 2005",
+      "coverPage": "percy_jackson.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 17,
+      "title": "The BFG",
+      "author": "Roald Dahl",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 9.75,
+      "description": "Meet the Big Friendly Giant and Sophie as they embark on an adventure to stop the man-eating giants.",
+      "publishedDate": "October 14, 1982",
+      "coverPage": "bfg.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 18,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 8.99,
+      "description": "Follow Alice as she falls down the rabbit hole into a whimsical world filled with peculiar creatures and nonsensical adventures.",
+      "publishedDate": "July 4, 1865",
+      "coverPage": "alice_wonderland.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 19,
+      "title": "The Velveteen Rabbit",
+      "author": "Margery Williams",
+      "categories": [
+          "Children's Picture Book",
+          "Fantasy"
+      ],
+      "price": 6.99,
+      "description": "Discover the heartwarming story of a toy rabbit who longs to become real through the love of his owner.",
+      "publishedDate": "October 31, 1922",
+      "coverPage": "velveteen_rabbit.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 20,
+      "title": "Anne of Green Gables",
+      "author": "L.M. Montgomery",
+      "categories": [
+          "Children's Fiction",
+          "Classic"
+      ],
+      "price": 9.99,
+      "description": "Join Anne Shirley as she wins the hearts of everyone in Avonlea with her imagination and zest for life.",
+      "publishedDate": "June 20, 1908",
+      "coverPage": "anne_green_gables.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 21,
+      "title": "Clifford the Big Red Dog",
+      "author": "Norman Bridwell",
+      "categories": [
+          "Children's Picture Book",
+          "Animal Stories"
+      ],
+      "price": 7.25,
+      "description": "Meet Clifford, the lovable giant red dog, as he gets into various antics with his owner Emily Elizabeth.",
+      "publishedDate": "September 12, 1963",
+      "coverPage": "clifford.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 22,
+      "title": "The Polar Express",
+      "author": "Chris Van Allsburg",
+      "categories": [
+          "Children's Picture Book",
+          "Christmas"
+      ],
+      "price": 11.5,
+      "description": "Embark on a magical train journey to the North Pole on Christmas Eve and rediscover the joy of believing.",
+      "publishedDate": "October 28, 1985",
+      "coverPage": "polar_express.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 23,
+      "title": "Stuart Little",
+      "author": "E.B. White",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 8.75,
+      "description": "Follow the adventures of Stuart Little, a small mouse with a big heart, as he navigates the world of humans.",
+      "publishedDate": "October 17, 1945",
+      "coverPage": "stuart_little.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 24,
+      "title": "The Magic School Bus Series",
+      "author": "Joanna Cole",
+      "categories": [
+          "Children's Educational",
+          "Science"
+      ],
+      "price": 9.99,
+      "description": "Join Ms. Frizzle and her class as they embark on exciting field trips aboard the magical school bus to explore science concepts.",
+      "publishedDate": "1986 - 2000",
+      "coverPage": "magic_school_bus.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 25,
+      "title": "The Little Prince",
+      "author": "Antoine de Saint-Exupéry",
+      "categories": [
+          "Children's Fantasy",
+          "Philosophical"
+      ],
+      "price": 10.99,
+      "description": "Discover the enchanting story of a young prince who travels from planet to planet, learning important life lessons along the way.",
+      "publishedDate": "April 6, 1943",
+      "coverPage": "little_prince.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 26,
+      "title": "James and the Giant Peach",
+      "author": "Roald Dahl",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 9.25,
+      "description": "Join James as he embarks on a journey inside a giant peach with a group of magically transformed insects.",
+      "publishedDate": "July 17, 1961",
+      "coverPage": "james_giant_peach.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 27,
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "categories": [
+          "Children's Fiction",
+          "Classic"
+      ],
+      "price": 8.99,
+      "description": "Follow Mary Lennox as she discovers a hidden garden and learns the power of friendship, hope, and the magic of nature.",
+      "publishedDate": "August 1911",
+      "coverPage": "secret_garden.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 28,
+      "title": "Corduroy",
+      "author": "Don Freeman",
+      "categories": [
+          "Children's Picture Book",
+          "Friendship"
+      ],
+      "price": 6.5,
+      "description": "Meet Corduroy, the teddy bear who goes on a search through the department store to find his missing button.",
+      "publishedDate": "1968",
+      "coverPage": "corduroy.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 29,
+      "title": "The Tale of Despereaux",
+      "author": "Kate DiCamillo",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 9.99,
+      "description": "Follow the adventures of Despereaux, a brave mouse with unusually large ears, as he sets out to rescue a princess.",
+      "publishedDate": "September 8, 2003",
+      "coverPage": "despereaux.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 30,
+      "title": "The Wind in the Willows",
+      "author": "Kenneth Grahame",
+      "categories": [
+          "Children's Fiction",
+          "Animal Stories"
+      ],
+      "price": 7.99,
+      "description": "Join Mole, Ratty, Badger, and Toad as they embark on charming adventures in the English countryside.",
+      "publishedDate": "October 8, 1908",
+      "coverPage": "wind_willows.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 31,
+      "title": "Anne Frank: The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "categories": [
+          "Children's Biography",
+          "History"
+      ],
+      "price": 10.5,
+      "description": "Experience the harrowing firsthand account of a young Jewish girl's life during the Holocaust, as she hides from the Nazis in Amsterdam.",
+      "publishedDate": "June 25, 1947",
+      "coverPage": "anne_frank.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 32,
+      "title": "The Chronicles of Narnia Box Set",
+      "author": "C.S. Lewis",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 29.99,
+      "description": "Journey through the magical land of Narnia with Peter, Susan, Edmund, and Lucy in this classic fantasy series.",
+      "publishedDate": "1950 - 1956",
+      "coverPage": "narnia_box_set.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 33,
+      "title": "The Jungle Book",
+      "author": "Rudyard Kipling",
+      "categories": [
+          "Children's Adventure",
+          "Animal Stories"
+      ],
+      "price": 8.75,
+      "description": "Follow the adventures of Mowgli, a young boy raised by wolves, as he navigates the jungle and encounters various animal characters.",
+      "publishedDate": "1894",
+      "coverPage": "jungle_book.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 34,
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "categories": [
+          "Children's Science Fiction",
+          "Fantasy"
+      ],
+      "price": 10.25,
+      "description": "Join Meg Murry, her brother Charles Wallace, and their friend Calvin as they embark on a journey through space and time to rescue Meg's father.",
+      "publishedDate": "January 1, 1962",
+      "coverPage": "wrinkle_time.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 35,
+      "title": "The Tale of Squirrel Nutkin",
+      "author": "Beatrix Potter",
+      "categories": [
+          "Children's Picture Book",
+          "Animal Stories"
+      ],
+      "price": 5.99,
+      "description": "Follow the mischievous Squirrel Nutkin as he tests the patience of Old Brown, the owl, in the Lake District.",
+      "publishedDate": "1903",
+      "coverPage": "squirrel_nutkin.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 36,
+      "title": "The Phantom Tollbooth",
+      "author": "Norton Juster",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 9.5,
+      "description": "Join Milo as he embarks on a whimsical journey through the Lands Beyond after receiving a mysterious tollbooth.",
+      "publishedDate": "1961",
+      "coverPage": "phantom_tollbooth.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 37,
+      "title": "Little House on the Prairie",
+      "author": "Laura Ingalls Wilder",
+      "categories": [
+          "Children's Historical Fiction",
+          "Pioneer"
+      ],
+      "price": 8.99,
+      "description": "Experience life on the American frontier with Laura Ingalls and her family as they settle in the prairies of Kansas.",
+      "publishedDate": "1935",
+      "coverPage": "little_house.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 38,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 12.99,
+      "description": "Join Bilbo Baggins as he sets out on an epic quest to reclaim the Lonely Mountain from the dragon Smaug.",
+      "publishedDate": "September 21, 1937",
+      "coverPage": "hobbit.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 39,
+      "title": "The Magic Tree House Series",
+      "author": "Mary Pope Osborne",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 7.99,
+      "description": "Join siblings Jack and Annie as they travel through time and space in their magical tree house, encountering historical figures and mythical creatures.",
+      "publishedDate": "1992 - Present",
+      "coverPage": "magic_tree_house.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 40,
+      "title": "The Princess Diaries",
+      "author": "Meg Cabot",
+      "categories": [
+          "Children's Fiction",
+          "Royalty"
+      ],
+      "price": 9.75,
+      "description": "Follow Mia Thermopolis as she navigates the challenges of being a teenager while discovering she's the heir to the throne of Genovia.",
+      "publishedDate": "October 1, 2000",
+      "coverPage": "princess_diaries.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 41,
+      "title": "Peter Pan",
+      "author": "J.M. Barrie",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 8.5,
+      "description": "Fly to Neverland with Peter Pan and Wendy as they encounter pirates, mermaids, and the villainous Captain Hook.",
+      "publishedDate": "December 27, 1904",
+      "coverPage": "peter_pan.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 42,
+      "title": "The Berenstain Bears Series",
+      "author": "Stan and Jan Berenstain",
+      "categories": [
+          "Children's Picture Book",
+          "Family"
+      ],
+      "price": 6.99,
+      "description": "Join the Bear family - Papa Bear, Mama Bear, Brother Bear, and Sister Bear - in their everyday adventures and life lessons.",
+      "publishedDate": "1962 - Present",
+      "coverPage": "berenstain_bears.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 43,
+      "title": "Pippi Longstocking",
+      "author": "Astrid Lindgren",
+      "categories": [
+          "Children's Fiction",
+          "Adventure"
+      ],
+      "price": 7.25,
+      "description": "Meet Pippi Longstocking, the strongest girl in the world, as she embarks on eccentric adventures with her friends Tommy and Annika.",
+      "publishedDate": "November 5, 1945",
+      "coverPage": "pippi_longstocking.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 44,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 12.99,
+      "description": "Join Harry Potter as he discovers he's a wizard and begins his magical education at Hogwarts School of Witchcraft and Wizardry.",
+      "publishedDate": "June 26, 1997",
+      "coverPage": "harry_potter_sorcerer_stone.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 45,
+      "title": "The Lorax",
+      "author": "Dr. Seuss",
+      "categories": [
+          "Children's Picture Book",
+          "Environmental"
+      ],
+      "price": 9.25,
+      "description": "Learn about environmental conservation and the importance of protecting nature through the story of the Lorax and the Once-ler.",
+      "publishedDate": "August 12, 1971",
+      "coverPage": "lorax.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 46,
+      "title": "The Golden Compass",
+      "author": "Philip Pullman",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 11.5,
+      "description": "Follow Lyra Belacqua as she embarks on a journey to the Arctic to rescue kidnapped children and uncover a sinister plot.",
+      "publishedDate": "July 1995",
+      "coverPage": "golden_compass.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 47,
+      "title": "The Tale of Peter Rabbit",
+      "author": "Beatrix Potter",
+      "categories": [
+          "Children's Picture Book",
+          "Animal Stories"
+      ],
+      "price": 5.99,
+      "description": "Follow the mischievous Peter Rabbit as he disobeys his mother and ventures into Mr. McGregor's garden.",
+      "publishedDate": "October 2, 1902",
+      "coverPage": "peter_rabbit_2.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 48,
+      "title": "The Wizard of Oz",
+      "author": "L. Frank Baum",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 10.75,
+      "description": "Join Dorothy, Toto, and their friends - the Scarecrow, the Tin Woodman, and the Cowardly Lion - on their journey to the Emerald City.",
+      "publishedDate": "May 17, 1900",
+      "coverPage": "wizard_oz.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 49,
+      "title": "Where the Sidewalk Ends",
+      "author": "Shel Silverstein",
+      "categories": [
+          "Children's Poetry",
+          "Humor"
+      ],
+      "price": 8.99,
+      "description": "Explore the whimsical and imaginative world of Shel Silverstein's poetry collection, filled with humor and creativity.",
+      "publishedDate": "February 18, 1974",
+      "coverPage": "sidewalk_ends.jpg",
+      "image": "noimg"
+  },
+  {
+      "id": 50,
+      "title": "Fantastic Mr. Fox",
+      "author": "Roald Dahl",
+      "categories": [
+          "Children's Fantasy",
+          "Adventure"
+      ],
+      "price": 9.25,
+      "description": "Join Mr. Fox as he outwits three mean farmers who are determined to catch him and his family.",
+      "publishedDate": "October 14, 1970",
+      "coverPage": "fantastic_mr_fox.jpg",
+      "image": "noimg"
+  }
+]

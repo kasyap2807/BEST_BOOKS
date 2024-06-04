@@ -1,0 +1,46 @@
+.partner-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .partner,
+  .sell-together {
+    flex: 1;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .partner h2,
+  .sell-together h2 {
+    color: #333;
+  }
+  
+  .partner p,
+  .sell-together p {
+    color: #666;
+  }
+  
+  .partner-button,
+  .sell-together-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  .partner-button:hover,
+  .sell-together-button:hover {
+    background-color: #0056b3;
+  }
+
+  .spacer{
+    margin: 10%;
+  }

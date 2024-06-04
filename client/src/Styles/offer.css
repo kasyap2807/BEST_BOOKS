@@ -1,0 +1,42 @@
+/* Add your CSS styling here */
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.offers {
+    text-align: center;
+    position: relative;
+}
+
+.offer-image {
+    width: 100vw;
+    height: 70vh;
+    /* max-width: 800px; */
+}
+
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    font-size: 24px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+.arrow.left {
+    left: 10px;
+}
+
+.arrow.right {
+    right: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .body{
+      width: 100%;
+    }
+  }

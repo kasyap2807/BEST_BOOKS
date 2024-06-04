@@ -1,0 +1,28 @@
+/* Footer.css */
+
+.footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .social-links a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+    transition: color 0.3s; /* Add transition for smooth color change */
+  }
+  
+  .social-links a:hover {
+    color: orange; /* Change color to orange on hover */
+    text-decoration: underline;
+  }
+
+  p{margin: 2%;}
+  

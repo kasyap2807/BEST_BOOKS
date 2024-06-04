@@ -1,0 +1,932 @@
+[
+    {
+      "id": 51,
+      "title": "Physics for JEE Main",
+      "author": "Resnick, Halliday, Walker",
+      "categories": [
+        "JEE",
+        "Textbook",
+        "Physics"
+      ],
+      "price": 25.99,
+      "description": "Comprehensive physics textbook covering topics required for JEE Main examination.",
+      "publishedDate": "January 1, 2019",
+      "coverPage": "physics_jee_main.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 52,
+      "title": "Mathematics for JEE Advanced",
+      "author": "R.D. Sharma",
+      "categories": [
+        "JEE",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 22.5,
+      "description": "Advanced mathematics textbook focusing on topics necessary for JEE Advanced preparation.",
+      "publishedDate": "March 15, 2020",
+      "coverPage": "mathematics_jee_advanced.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 53,
+      "title": "General Knowledge for NDA Entrance",
+      "author": "Arihant Publications",
+      "categories": [
+        "NDA",
+        "Textbook",
+        "General Knowledge"
+      ],
+      "price": 18.75,
+      "description": "Comprehensive guide covering general knowledge topics required for NDA entrance examination.",
+      "publishedDate": "May 10, 2018",
+      "coverPage": "nda_general_knowledge.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 54,
+      "title": "Chemistry for EAMCET",
+      "author": "O.P. Tandon",
+      "categories": [
+        "EAMCET",
+        "Textbook",
+        "Chemistry"
+      ],
+      "price": 20.99,
+      "description": "Detailed chemistry textbook tailored for EAMCET preparation.",
+      "publishedDate": "June 5, 2021",
+      "coverPage": "chemistry_eamcet.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 55,
+      "title": "10th Class Mathematics Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 12.99,
+      "description": "Mathematics textbook designed as per the syllabus prescribed by the Andhra Pradesh Board for 10th-grade students.",
+      "publishedDate": "July 20, 2020",
+      "coverPage": "10th_mathematics_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 56,
+      "title": "Inter 1st Year Physics Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "Intermediate",
+        "Textbook",
+        "Physics"
+      ],
+      "price": 15.5,
+      "description": "Physics textbook for the first year of intermediate education following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "February 10, 2021",
+      "coverPage": "inter_1st_year_physics_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 57,
+      "title": "Inter 2nd Year Biology Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "Intermediate",
+        "Textbook",
+        "Biology"
+      ],
+      "price": 17.99,
+      "description": "Biology textbook for the second year of intermediate education following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "March 25, 2021",
+      "coverPage": "inter_2nd_year_biology_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 58,
+      "title": "Chemistry for NEET",
+      "author": "Pradeep Publications",
+      "categories": [
+        "NEET",
+        "Textbook",
+        "Chemistry"
+      ],
+      "price": 19.99,
+      "description": "Comprehensive chemistry textbook tailored for NEET (National Eligibility cum Entrance Test) preparation.",
+      "publishedDate": "April 30, 2021",
+      "coverPage": "chemistry_neet.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 59,
+      "title": "Objective Physics for IIT-JAM",
+      "author": "DC Pandey",
+      "categories": [
+        "IIT-JAM",
+        "Textbook",
+        "Physics"
+      ],
+      "price": 21.5,
+      "description": "Objective physics textbook aimed at preparing students for the IIT-JAM (Indian Institutes of Technology Joint Admission Test for M.Sc.) exam.",
+      "publishedDate": "December 15, 2020",
+      "coverPage": "physics_iit_jam.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 60,
+      "title": "General English for UPSC Civil Services Exam",
+      "author": "Wren & Martin",
+      "categories": [
+        "UPSC",
+        "Textbook",
+        "English"
+      ],
+      "price": 23.75,
+      "description": "Comprehensive English grammar and composition textbook suitable for preparing for the English paper of the UPSC Civil Services Examination.",
+      "publishedDate": "October 10, 2019",
+      "coverPage": "english_upsc.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 61,
+      "title": "A Textbook of Economic Theory",
+      "author": "Alfred Marshall",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Economics"
+      ],
+      "price": 27.99,
+      "description": "Classic textbook covering economic theory suitable for undergraduate-level studies.",
+      "publishedDate": "August 5, 1890",
+      "coverPage": "economic_theory.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 62,
+      "title": "Fundamentals of Computer Science",
+      "author": "R.S. Salaria",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Computer Science"
+      ],
+      "price": 24.5,
+      "description": "Introduction to computer science textbook covering fundamental concepts for undergraduate students.",
+      "publishedDate": "March 20, 2018",
+      "coverPage": "computer_science_fundamentals.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 63,
+      "title": "Advanced Calculus",
+      "author": "Edwin F. Beckenbach, Richard Bellman",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 29.99,
+      "description": "Textbook covering advanced topics in calculus suitable for undergraduate mathematics majors.",
+      "publishedDate": "June 10, 1957",
+      "coverPage": "advanced_calculus.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 64,
+      "title": "Introduction to Psychology",
+      "author": "James W. Kalat",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Psychology"
+      ],
+      "price": 26.75,
+      "description": "Comprehensive introduction to psychology textbook covering key concepts for undergraduate students.",
+      "publishedDate": "November 15, 2015",
+      "coverPage": "psychology_introduction.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 65,
+      "title": "Organic Chemistry",
+      "author": "Jonathan Clayden, Nick Greeves, Stuart Warren",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Chemistry"
+      ],
+      "price": 28.5,
+      "description": "In-depth organic chemistry textbook suitable for undergraduate students.",
+      "publishedDate": "September 25, 2000",
+      "coverPage": "organic_chemistry.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 66,
+      "title": "Principles of Marketing",
+      "author": "Philip Kotler, Gary Armstrong",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Marketing"
+      ],
+      "price": 25.99,
+      "description": "Fundamental principles of marketing textbook suitable for undergraduate business students.",
+      "publishedDate": "July 12, 2010",
+      "coverPage": "marketing_principles.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 67,
+      "title": "Fundamentals of Financial Management",
+      "author": "Eugene F. Brigham, Joel F. Houston",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Finance"
+      ],
+      "price": 26.99,
+      "description": "Comprehensive financial management textbook covering fundamental concepts for undergraduate students.",
+      "publishedDate": "February 8, 2018",
+      "coverPage": "financial_management.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 68,
+      "title": "Introduction to Sociology",
+      "author": "Anthony Giddens, Mitchell Duneier, Richard P. Appelbaum, Deborah Carr",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Sociology"
+      ],
+      "price": 24.5,
+      "description": "Introduction to sociology textbook providing an overview of key sociological concepts for undergraduate students.",
+      "publishedDate": "May 30, 2016",
+      "coverPage": "sociology_introduction.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 69,
+      "title": "Artificial Intelligence: A Modern Approach",
+      "author": "Stuart Russell, Peter Norvig",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Artificial Intelligence"
+      ],
+      "price": 31.25,
+      "description": "Comprehensive textbook covering modern approaches to artificial intelligence suitable for undergraduate students.",
+      "publishedDate": "October 2, 2009",
+      "coverPage": "artificial_intelligence.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 70,
+      "title": "Business Communication: Building Critical Skills",
+      "author": "Kitty Locker, Stephen Kaczmarek",
+      "categories": [
+        "Undergraduate",
+        "Textbook",
+        "Business Communication"
+      ],
+      "price": 22.99,
+      "description": "Textbook focusing on developing critical communication skills for business students.",
+      "publishedDate": "April 15, 2017",
+      "coverPage": "business_communication.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 71,
+      "title": "6th Class Mathematics Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Mathematics textbook designed as per the syllabus prescribed by the Andhra Pradesh Board for 6th-grade students.",
+      "publishedDate": "July 20, 2021",
+      "coverPage": "6th_mathematics_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 72,
+      "title": "7th Class Science Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 11.5,
+      "description": "Science textbook tailored for 7th-grade students following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "February 15, 2022",
+      "coverPage": "7th_science_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 73,
+      "title": "8th Class Social Studies Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 12.75,
+      "description": "Social studies textbook for 8th-grade students in accordance with the Andhra Pradesh Board syllabus.",
+      "publishedDate": "March 10, 2022",
+      "coverPage": "8th_social_studies_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 74,
+      "title": "9th Class English Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English textbook designed for 9th-grade students following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "April 5, 2022",
+      "coverPage": "9th_english_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 75,
+      "title": "10th Class Telugu Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 14.5,
+      "description": "Telugu textbook tailored for 10th-grade students in accordance with the Andhra Pradesh Board syllabus.",
+      "publishedDate": "May 20, 2022",
+      "coverPage": "10th_telugu_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 76,
+      "title": "Inter 1st Year Chemistry Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "Intermediate",
+        "Textbook",
+        "Chemistry"
+      ],
+      "price": 15.99,
+      "description": "Chemistry textbook for the first year of intermediate education following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "June 15, 2022",
+      "coverPage": "inter_1st_year_chemistry_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 77,
+      "title": "Inter 2nd Year Mathematics Textbook (AP Board)",
+      "author": "State Council of Educational Research and Training, Andhra Pradesh",
+      "categories": [
+        "Intermediate",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 16.75,
+      "description": "Mathematics textbook for the second year of intermediate education following the Andhra Pradesh Board syllabus.",
+      "publishedDate": "July 25, 2022",
+      "coverPage": "inter_2nd_year_mathematics_ap_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 85,
+      "title": "6th Class Mathematics Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Comprehensive mathematics textbook for 6th-grade students.",
+      "publishedDate": "August 1, 2023",
+      "coverPage": "6th_mathematics_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 86,
+      "title": "6th Class Telugu Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 11.5,
+      "description": "Telugu language textbook designed for 6th-grade students.",
+      "publishedDate": "September 5, 2023",
+      "coverPage": "6th_telugu_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 87,
+      "title": "6th Class Hindi Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Hindi"
+      ],
+      "price": 12.75,
+      "description": "Hindi language textbook tailored for 6th-grade students.",
+      "publishedDate": "October 10, 2023",
+      "coverPage": "6th_hindi_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 88,
+      "title": "6th Class English Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English language textbook for 6th-grade students.",
+      "publishedDate": "November 15, 2023",
+      "coverPage": "6th_english_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 89,
+      "title": "6th Class Science Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 14.5,
+      "description": "Science textbook covering various topics for 6th-grade students.",
+      "publishedDate": "December 20, 2023",
+      "coverPage": "6th_science_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 90,
+      "title": "6th Class Social Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 15.99,
+      "description": "Social studies textbook focusing on history, geography, and civics for 6th-grade students.",
+      "publishedDate": "January 25, 2024",
+      "coverPage": "6th_social_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 91,
+      "title": "6th Class Environmental Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "6th Class",
+        "Textbook",
+        "Environmental Studies"
+      ],
+      "price": 16.75,
+      "description": "Environmental studies textbook covering ecology, environment, and sustainability for 6th-grade students.",
+      "publishedDate": "February 28, 2024",
+      "coverPage": "6th_environmental_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 92,
+      "title": "7th Class Mathematics Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Comprehensive mathematics textbook for 7th-grade students.",
+      "publishedDate": "August 1, 2023",
+      "coverPage": "7th_mathematics_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 93,
+      "title": "7th Class Telugu Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 11.5,
+      "description": "Telugu language textbook designed for 7th-grade students.",
+      "publishedDate": "September 5, 2023",
+      "coverPage": "7th_telugu_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 94,
+      "title": "7th Class Hindi Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Hindi"
+      ],
+      "price": 12.75,
+      "description": "Hindi language textbook tailored for 7th-grade students.",
+      "publishedDate": "October 10, 2023",
+      "coverPage": "7th_hindi_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 95,
+      "title": "7th Class English Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English language textbook for 7th-grade students.",
+      "publishedDate": "November 15, 2023",
+      "coverPage": "7th_english_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 96,
+      "title": "7th Class Science Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 14.5,
+      "description": "Science textbook covering various topics for 7th-grade students.",
+      "publishedDate": "December 20, 2023",
+      "coverPage": "7th_science_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 97,
+      "title": "7th Class Social Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 15.99,
+      "description": "Social studies textbook focusing on history, geography, and civics for 7th-grade students.",
+      "publishedDate": "January 25, 2024",
+      "coverPage": "7th_social_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 98,
+      "title": "7th Class Environmental Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "7th Class",
+        "Textbook",
+        "Environmental Studies"
+      ],
+      "price": 16.75,
+      "description": "Environmental studies textbook covering ecology, environment, and sustainability for 7th-grade students.",
+      "publishedDate": "February 28, 2024",
+      "coverPage": "7th_environmental_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 99,
+      "title": "8th Class Mathematics Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Comprehensive mathematics textbook for 8th-grade students.",
+      "publishedDate": "August 1, 2023",
+      "coverPage": "8th_mathematics_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 100,
+      "title": "8th Class Telugu Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 11.5,
+      "description": "Telugu language textbook designed for 8th-grade students.",
+      "publishedDate": "September 5, 2023",
+      "coverPage": "8th_telugu_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 101,
+      "title": "8th Class Hindi Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Hindi"
+      ],
+      "price": 12.75,
+      "description": "Hindi language textbook tailored for 8th-grade students.",
+      "publishedDate": "October 10, 2023",
+      "coverPage": "8th_hindi_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 102,
+      "title": "8th Class English Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English language textbook for 8th-grade students.",
+      "publishedDate": "November 15, 2023",
+      "coverPage": "8th_english_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 103,
+      "title": "8th Class Science Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 14.5,
+      "description": "Science textbook covering various topics for 8th-grade students.",
+      "publishedDate": "December 20, 2023",
+      "coverPage": "8th_science_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 104,
+      "title": "8th Class Social Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 15.99,
+      "description": "Social studies textbook focusing on history, geography, and civics for 8th-grade students.",
+      "publishedDate": "January 25, 2024",
+      "coverPage": "8th_social_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 105,
+      "title": "8th Class Environmental Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "8th Class",
+        "Textbook",
+        "Environmental Studies"
+      ],
+      "price": 16.75,
+      "description": "Environmental studies textbook covering ecology, environment, and sustainability for 8th-grade students.",
+      "publishedDate": "February 28, 2024",
+      "coverPage": "8th_environmental_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 106,
+      "title": "9th Class Mathematics Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Comprehensive mathematics textbook for 9th-grade students.",
+      "publishedDate": "August 1, 2023",
+      "coverPage": "9th_mathematics_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 107,
+      "title": "9th Class Telugu Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 11.5,
+      "description": "Telugu language textbook designed for 9th-grade students.",
+      "publishedDate": "September 5, 2023",
+      "coverPage": "9th_telugu_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 108,
+      "title": "9th Class Hindi Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Hindi"
+      ],
+      "price": 12.75,
+      "description": "Hindi language textbook tailored for 9th-grade students.",
+      "publishedDate": "October 10, 2023",
+      "coverPage": "9th_hindi_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 109,
+      "title": "9th Class English Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English language textbook for 9th-grade students.",
+      "publishedDate": "November 15, 2023",
+      "coverPage": "9th_english_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 110,
+      "title": "9th Class Science Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 14.5,
+      "description": "Science textbook covering various topics for 9th-grade students.",
+      "publishedDate": "December 20, 2023",
+      "coverPage": "9th_science_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 111,
+      "title": "9th Class Social Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 15.99,
+      "description": "Social studies textbook focusing on history, geography, and civics for 9th-grade students.",
+      "publishedDate": "January 25, 2024",
+      "coverPage": "9th_social_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 112,
+      "title": "9th Class Environmental Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "9th Class",
+        "Textbook",
+        "Environmental Studies"
+      ],
+      "price": 16.75,
+      "description": "Environmental studies textbook covering ecology, environment, and sustainability for 9th-grade students.",
+      "publishedDate": "February 28, 2024",
+      "coverPage": "9th_environmental_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 113,
+      "title": "10th Class Mathematics Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Mathematics"
+      ],
+      "price": 10.99,
+      "description": "Comprehensive mathematics textbook for 10th-grade students.",
+      "publishedDate": "August 1, 2023",
+      "coverPage": "10th_mathematics_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 114,
+      "title": "10th Class Telugu Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Telugu"
+      ],
+      "price": 11.5,
+      "description": "Telugu language textbook designed for 10th-grade students.",
+      "publishedDate": "September 5, 2023",
+      "coverPage": "10th_telugu_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 115,
+      "title": "10th Class Hindi Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Hindi"
+      ],
+      "price": 12.75,
+      "description": "Hindi language textbook tailored for 10th-grade students.",
+      "publishedDate": "October 10, 2023",
+      "coverPage": "10th_hindi_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 116,
+      "title": "10th Class English Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "English"
+      ],
+      "price": 13.99,
+      "description": "English language textbook for 10th-grade students.",
+      "publishedDate": "November 15, 2023",
+      "coverPage": "10th_english_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 117,
+      "title": "10th Class Science Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Science"
+      ],
+      "price": 14.5,
+      "description": "Science textbook covering various topics for 10th-grade students.",
+      "publishedDate": "December 20, 2023",
+      "coverPage": "10th_science_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 118,
+      "title": "10th Class Social Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Social Studies"
+      ],
+      "price": 15.99,
+      "description": "Social studies textbook focusing on history, geography, and civics for 10th-grade students.",
+      "publishedDate": "January 25, 2024",
+      "coverPage": "10th_social_studies_state_board.jpg",
+      "image": "noimg"
+    },
+    {
+      "id": 119,
+      "title": "10th Class Environmental Studies Textbook (State Board)",
+      "author": "State Council of Educational Research and Training",
+      "categories": [
+        "10th Class",
+        "Textbook",
+        "Environmental Studies"
+      ],
+      "price": 16.75,
+      "description": "Environmental studies textbook covering ecology, environment, and sustainability for 10th-grade students.",
+      "publishedDate": "February 28, 2024",
+      "coverPage": "10th_environmental_studies_state_board.jpg",
+      "image": "noimg"
+    }
+  ]
